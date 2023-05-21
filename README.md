@@ -1,5 +1,5 @@
 # ECG signal conditioning by Morphological Filtering\
-\
+
 > Project developed for the biomedical signal processing class over winter 2022-2023\
 \
 The full explanation on how to run the code and the methodology adopted to conduct the conditioning and to evaluate its performances are described in how_to_run.pdf.\
