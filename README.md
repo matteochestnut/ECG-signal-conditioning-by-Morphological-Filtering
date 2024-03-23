@@ -1,4 +1,4 @@
-# ECG signal conditioning by Morphological Filtering\
+# ECG signal conditioning by Morphological Filtering
 
 > Project developed for the biomedical signal processing class over winter 2022-2023\
 
